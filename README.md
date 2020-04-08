@@ -1,2 +1,7 @@
-# intellino_rb
-intellino raspberrypi api
+# Intellino checking sample code
+
+## Build & Execution
+```
+$cd src
+$make && ./app.out
+```
